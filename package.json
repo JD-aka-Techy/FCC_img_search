@@ -1,0 +1,24 @@
+{
+  "name": "fcc_img_search",
+  "version": "0.0.1",
+  "description": "FreeCodeCamp Image Search Abstraction Layer",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JD-aka-Techy/FCC_img_search.git"
+  },
+  "author": "James R. Davenport",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JD-aka-Techy/FCC_img_search/issues"
+  },
+  "homepage": "https://github.com/JD-aka-Techy/FCC_img_search#readme",
+  "dependencies": {
+    "bing.search": "^1.0.1",
+    "express": "^4.13.4",
+    "mongodb": "^2.1.14"
+  }
+}
